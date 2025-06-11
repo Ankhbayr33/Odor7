@@ -1,0 +1,256 @@
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T01:47:01.313+0800', Status='Зээлсэн'
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 01:47:01 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 01:47:01 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 01:47:01 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T01:47:01.318+0800
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 01:47:01 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 01:47:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T01:47:23.013+0800', Status='Зээлсэн'
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 01:47:23 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 01:47:23 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 01:47:23 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T01:47:23.017+0800
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 01:47:23 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 01:47:23 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T01:47:29.308+0800', Status='Зээлсэн'
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 01:47:29 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 01:47:29 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 01:47:29 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T01:47:29.313+0800
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 01:47:29 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 01:47:29 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T01:48:41.354+0800', Status='Зээлсэн'
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 01:48:41 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 01:48:41 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 01:48:41 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T01:48:41.359+0800
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 01:48:41 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 01:48:41 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T01:49:50.127+0800', Status='Зээлсэн'
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 01:49:50 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 01:49:50 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 01:49:50 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T01:49:50.131+0800
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 01:49:50 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 01:49:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T01:51:05.802+0800', Status='Зээлсэн'
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 01:51:05 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 01:51:05 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 01:51:05 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T01:51:05.807+0800
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 01:51:05 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 01:51:05 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T02:09:36.151+0800', Status='Zeelsen'
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Java Programming' (ID: B001), Status='Zeelsen'
+2025-06-11 02:09:36 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Java Programming'.
+2025-06-11 02:09:36 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 02:09:36 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T02:09:36.155+0800
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.Member - Membereer butsaagdsan 'Ankhbayr': Book='Java Programming' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 02:09:36 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Java Programming'.
+2025-06-11 02:09:36 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T02:13:46.283+0800', Status='Zeelsen'
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Java Programming' (ID: B001), Status='Zeelsen'
+2025-06-11 02:13:46 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Java Programming'.
+2025-06-11 02:13:46 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Буцаасан'
+2025-06-11 02:13:46 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T02:13:46.287+0800
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.Member - Membereer butsaagdsan 'Ankhbayr': Book='Java Programming' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 02:13:46 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Java Programming'.
+2025-06-11 02:13:46 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.LibraryApp - Nomiin Udirdlakh Sistemd ehлэлээ.
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.Book - Nom uusgeh: ID='B001', Garalt='Java Programming', Zohiolch='Author A', Hoolbolj baina=3
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.UserAccount - Hereglegchiin bureltgel amjilttai uuslee: Nertei hereglegch='user123', Uureg='Member'
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.Member - Gishuuneer uusgeh: Buren ner='Ankhbayr', Tsahim hayag='example@example.com', Utas='99990000'
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.Book - Nom zeelsen: ID='B001', Garalt='Java Programming'. Odort baina: 2
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.BorrowRecord - Zeelsen bichig uuslee: BookID='B001', Garalt='Java Programming', Zeelsen ognoo='2025-06-11T02:20:12.4627078+08:00', Tuvshin='Zeelsen'
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.Member - Zeelsen bichig gishuunд nemegdelee: Gishuun='Ankhbayr', Nom='Java Programming' (ID: B001), Tuvshin='Zeelsen'
+2025-06-11 02:20:12 [main] DEBUG com.example.LibraryManagement.Member - Odort zeelsen nomuud: 1
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.LibraryApp - Gishuun 'Ankhbayr' nom zeelsen.
+2025-06-11 02:20:12 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Tuvshin shineer uurchlugdsun: BookID='B001' to 'Butsaasan'
+2025-06-11 02:20:12 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Butsaah ognoo togtoogdloo: BookID='B001': 2025-06-11T02:20:12.4657087+08:00
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.Book - Nom butsaagdsan: ID='B001', Garalt='Java Programming'. Odort baina: 3
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.Member - Nom gishuun butsaalaa: Gishuun='Ankhbayr', Nom='Java Programming' (ID: B001). Tuvshin='Butsaasan'.
+2025-06-11 02:20:12 [main] DEBUG com.example.LibraryManagement.Member - Odort uldej baigaa zeelsen nomuud: 0
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.LibraryApp - Gishuun 'Ankhbayr' nom butsaalaa.
+2025-06-11 02:20:12 [main] INFO  com.example.LibraryManagement.LibraryApp - Nomiin Udirdlakh Sistemd duuslaa.
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Java Programming', Author='Author A', Copies=3
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Анхбаяр', Email='example@example.com', Phone='99990000'
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Java Programming'. Available copies now: 2
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Java Programming', BorrowDate='2025-06-11T20:37:01.902+0800', Status='Зээлсэн'
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Анхбаяр': Book='Java Programming' (ID: B001), Status='Зээлсэн'
+2025-06-11 20:37:01 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Анхбаяр: 1
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' borrowed book 'Java Programming'.
+2025-06-11 20:37:01 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 20:37:01 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T20:37:01.906+0800
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Анхбаяр': Book='Java Programming' (ID: B001). Status set to 'Буцаасан'.
+2025-06-11 20:37:01 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Анхбаяр: 0
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Java Programming'. Available copies now: 3
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Анхбаяр' returned book 'Java Programming'.
+2025-06-11 20:37:01 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 20:46:48 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 20:46:48 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Harry Potter', Author='Author A', Copies=3
+2025-06-11 20:46:48 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 20:46:48 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 20:46:48 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Harry Potter'. Available copies now: 2
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Harry Potter', BorrowDate='2025-06-11T20:46:48.999+0800', Status='Zeelsen'
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Harry Potter' (ID: B001), Status='Zeelsen'
+2025-06-11 20:46:49 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Harry Potter'.
+2025-06-11 20:46:49 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 20:46:49 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T20:46:49.004+0800
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Ankhbayr': Book='Harry Potter' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 20:46:49 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Harry Potter'. Available copies now: 3
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Harry Potter'.
+2025-06-11 20:46:49 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Harry Potter', Author='Author A', Copies=3
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.UserAccount - User account created successfully: Username='user123', Role='Member'
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Harry Potter'. Available copies now: 2
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Harry Potter', BorrowDate='2025-06-11T20:54:34.959+0800', Status='Zeelsen'
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Harry Potter' (ID: B001), Status='Zeelsen'
+2025-06-11 20:54:34 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Harry Potter'.
+2025-06-11 20:54:34 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 20:54:34 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T20:54:34.962+0800
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Ankhbayr': Book='Harry Potter' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 20:54:34 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Harry Potter'. Available copies now: 3
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Harry Potter'.
+2025-06-11 20:54:34 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Harry Potter', Author='Author A', Copies=3
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.UserAccount - Hereglegchiin account uuslee: Ner='user123'
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Harry Potter'. Available copies now: 2
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Harry Potter', BorrowDate='2025-06-11T21:00:50.603+0800', Status='Zeelsen'
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Harry Potter' (ID: B001), Status='Zeelsen'
+2025-06-11 21:00:50 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Harry Potter'.
+2025-06-11 21:00:50 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 21:00:50 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T21:00:50.614+0800
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Ankhbayr': Book='Harry Potter' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 21:00:50 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Harry Potter'. Available copies now: 3
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Harry Potter'.
+2025-06-11 21:00:50 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Harry Potter', Author='Author A', Copies=3
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.UserAccount - Hereglegchiin account uuslee: Ner='user123'
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Harry Potter'. Available copies now: 2
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Harry Potter', BorrowDate='2025-06-11T21:28:11.368+0800', Status='Zeelsen'
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Harry Potter' (ID: B001), Status='Zeelsen'
+2025-06-11 21:28:11 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Harry Potter'.
+2025-06-11 21:28:11 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 21:28:11 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T21:28:11.374+0800
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Ankhbayr': Book='Harry Potter' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 21:28:11 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Harry Potter'. Available copies now: 3
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Harry Potter'.
+2025-06-11 21:28:11 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Harry Potter', Author='Author A', Copies=3
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.UserAccount - Hereglegchiin account uuslee: Ner='user123'
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Harry Potter'. Available copies now: 2
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Harry Potter', BorrowDate='2025-06-11T22:19:07.848+0800', Status='Zeelsen'
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Harry Potter' (ID: B001), Status='Zeelsen'
+2025-06-11 22:19:07 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Harry Potter'.
+2025-06-11 22:19:07 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 22:19:07 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T22:19:07.854+0800
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Ankhbayr': Book='Harry Potter' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 22:19:07 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Harry Potter'. Available copies now: 3
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Harry Potter'.
+2025-06-11 22:19:07 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System started.
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.Book - Book created: ID='B001', Title='Harry Potter', Author='Author A', Copies=3
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.UserAccount - Hereglegchiin account uuslee: Ner='user123'
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.Member - Member created: Full Name='Ankhbayr', Email='example@example.com', Phone='99990000'
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.Book - Book borrowed: ID='B001', Title='Harry Potter'. Available copies now: 2
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.BorrowRecord - BorrowRecord created: BookID='B001', Title='Harry Potter', BorrowDate='2025-06-11T22:31:21.625+0800', Status='Zeelsen'
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.Member - Borrow record added for member 'Ankhbayr': Book='Harry Potter' (ID: B001), Status='Zeelsen'
+2025-06-11 22:31:21 [main] DEBUG com.example.LibraryManagement.Member - Current borrowed books for Ankhbayr: 1
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' borrowed book 'Harry Potter'.
+2025-06-11 22:31:21 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Status updated for BookID='B001' to 'Butsaasan'
+2025-06-11 22:31:21 [main] DEBUG com.example.LibraryManagement.BorrowRecord - Return date set for BookID='B001': 2025-06-11T22:31:21.628+0800
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.Member - Book returned by member 'Ankhbayr': Book='Harry Potter' (ID: B001). Status set to 'Butsaasan'.
+2025-06-11 22:31:21 [main] DEBUG com.example.LibraryManagement.Member - Remaining borrowed books for Ankhbayr: 0
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.Book - Book returned: ID='B001', Title='Harry Potter'. Available copies now: 3
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.LibraryApp - Member 'Ankhbayr' returned book 'Harry Potter'.
+2025-06-11 22:31:21 [main] INFO  com.example.LibraryManagement.LibraryApp - Library Management System ended.
